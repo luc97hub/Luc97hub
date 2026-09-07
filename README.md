@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I´m Lucas Cristian
 
-<!--
-**luc97hub/Luc97hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Systems Student at Faculdade Metropolitana de Manaus (Fametro)
+🚀 Starting my journey in the universe of software development and technology.
+📚 Currently focused on learning Python / Java / JavaScript and Web Development / Database concepts.
+🛠️ Building my first projects and putting college theory into practice.
+💡 Open to connections, learning, and collaborations!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tech Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  
