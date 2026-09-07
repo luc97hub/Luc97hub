@@ -1,4 +1,4 @@
-## Hi, I´m Lucas Cristian
+## Hi, I´m Lucas Cristian ᶻ 𝗓 𐰁 .ᐟ
 
 🎓 Information Systems Student at Faculdade Metropolitana de Manaus (Fametro)
 🚀 Starting my journey in the universe of software development and technology.
